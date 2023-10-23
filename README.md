@@ -61,4 +61,4 @@
 - 학생은 수강신청한 교과목들로 시간표를 만들 수 있습니다.
 
 # ERD
-![Alt text](image.png)
+![Alt text](ssam_erd_2.png)
