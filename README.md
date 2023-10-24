@@ -67,4 +67,4 @@
 
 
 # ERD
-![Alt text](ssam_erd_5.png)
+![Alt text](ssam_erd_7.png)
